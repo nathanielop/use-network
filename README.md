@@ -1,5 +1,5 @@
 # networked
-A simple React hook to be wrapped around API calls for simple retries and queueing.
+A simple React hook to be wrapped around API calls for simple retries and queuing.
 
 WIP
 
