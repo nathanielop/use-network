@@ -1,0 +1,19 @@
+{
+  "name": "networked",
+  "version": "0.0.1",
+  "description": "A simple react hook to be wrapped around API calls for simple retries and queuing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanielop/networked.git"
+  },
+  "author": "Nathaniel Pendy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanielop/networked/issues"
+  },
+  "homepage": "https://github.com/nathanielop/networked#readme"
+}
