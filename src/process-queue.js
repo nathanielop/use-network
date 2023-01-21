@@ -4,7 +4,7 @@ export default async ({ options = {} }) => {
   let index = 0;
   options = validateOptions(options);
 
-  const process = () => {
+  const process = async () => {
     let error;
     let isLoading = true;
     do {
