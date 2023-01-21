@@ -1,16 +1,16 @@
 {
-  "name": "networked",
+  "name": "react-use-network",
   "version": "0.0.1",
   "description": "A simple react hook to be wrapped around API calls for simple retries and queuing.",
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nathanielop/networked.git"
+    "url": "git+https://github.com/nathanielop/use-network.git"
   },
   "author": "Nathaniel Pendy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nathanielop/networked/issues"
+    "url": "https://github.com/nathanielop/use-network/issues"
   },
-  "homepage": "https://github.com/nathanielop/networked#readme"
+  "homepage": "https://github.com/nathanielop/use-network#readme"
 }

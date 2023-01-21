@@ -1,4 +1,4 @@
-# networked
+# useNetwork
 A simple React hook to be wrapped around API calls for simple retries and queuing. [WIP]
 
 ## Usage
@@ -6,7 +6,7 @@ A simple React hook to be wrapped around API calls for simple retries and queuin
 #### Initalize Hook with Options
 
 ```js
-import createUseNetwork from 'networked';
+import createUseNetwork from 'use-network';
 // hooks/use-network.js;
 
 export default createUseNetwork({
